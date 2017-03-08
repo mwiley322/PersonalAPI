@@ -1,0 +1,30 @@
+{
+  "name": "personal_api",
+  "version": "1.0.0",
+  "description": "Megan's Personal API on Pizza",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwiley322/PersonalAPI.git"
+  },
+  "keywords": [
+    "pizza",
+    "api",
+    "express",
+    "node"
+  ],
+  "author": "Megan Wiley www.linkedin.com/in/meganrwiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwiley322/PersonalAPI/issues"
+  },
+  "homepage": "https://github.com/mwiley322/PersonalAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
